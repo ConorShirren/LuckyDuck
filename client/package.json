@@ -20,11 +20,14 @@
     "@angular/platform-browser-dynamic": "^10.0.6",
     "@angular/router": "^10.0.6",
     "bootstrap": "4.1.1",
+    "bootswatch": "^4.5.0",
     "font-awesome": "^4.7.0",
     "ngx-bootstrap": "^5.6.1",
+    "ngx-spinner": "^10.0.1",
     "ngx-toastr": "^13.0.0",
     "rxjs": "~6.5.5",
     "tslib": "^2.0.0",
+    "xng-breadcrumb": "^6.0.0",
     "zone.js": "~0.10.3"
   },
   "devDependencies": {
