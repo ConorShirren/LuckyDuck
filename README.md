@@ -1,15 +1,18 @@
 # LuckyDuck
-eCommerce Application for Vintage Clothing Store: Lucky Duck Vintage
 
 # Ecommerce App using ASP.NET Core and Angular
 
 ## Client
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1. You can cd into client folder and do npm i to install the packages then ng serve.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1. You can cd into client folder run:
+- npm i
+- ng serve.
 
 ## Development server
 
-This project is built using .NET Core 3.1. you can cd into API directory and say dotnet restore and  then dotnet watch run.
+This project is built using .NET Core 3.1. To run, cd into the API directory and run:
+- dotnet restore 
+- dotnet watch run.
 
 ## Server Side Technologies
 
@@ -19,7 +22,7 @@ This project is built using .NET Core 3.1. you can cd into API directory and say
 - Specification Pattern
 - Azure Redis Cache
 - Sqlite during devlopment
-- Mysql in Production
+- MYSQL in Production
 - Swagger
 - Stripe Implementation
 
