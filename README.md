@@ -1,4 +1,4 @@
-# LuckyDuck
+![demo1](/assets/logo.png)
 
 # Ecommerce App using ASP.NET Core and Angular
 
@@ -14,6 +14,10 @@ This project is built using .NET Core 3.1. To run, cd into the API directory and
 - dotnet restore 
 - dotnet watch run.
 
+## Demo 
+![demo1](/assets/demo1.gif)
+
+![demo2](/assets/demo2.gif)
 ## Server Side Technologies
 
 - .Net Core
@@ -46,4 +50,4 @@ You can also follow docs here https://stripe.com/docs/testing
 Influenced by Neil Cummings
 
 
-![demo1](/assets/demo1.gif)
+
