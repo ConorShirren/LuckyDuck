@@ -1,25 +1,51 @@
-![demo1](/assets/logo.png)
+# Lucky Duck Vintage Clothing
 
-# Ecommerce App using ASP.NET Core and Angular
+__E-Commerce Web App for Vintage Clothing Store :fire:__
 
-## Client
+![logo](/assets/logo.png)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1. You can cd into client folder run:
-- npm i
-- ng serve.
+A Full Stack Web ECommerce application built on .NET Core 3.1 and Angular 9.
 
-## Development server
+__WARNING__: The Stripe API section of this Project is still in Development
 
-This project is built using .NET Core 3.1. To run, cd into the API directory and run:
-- dotnet restore 
-- dotnet watch run.
+---
 
-## Demo 
+## :closed_book: Table of Contents
+
+- [Demo](#hammer_and_wrench-demo)
+- [Running the Project](#open_file_folder-running)
+- [Technologies](#fire-technologies)
+- [Credits](#computer-credits)
+
+---
+
+## :hammer_and_wrench: Demo
+
 ![demo1](/assets/demo1.gif)
 
 ![demo2](/assets/demo2.gif)
-## Server Side Technologies
 
+---
+
+## :open_file_folder: Running
+
+This UI for this project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1. You can cd into client folder run:
+```bash
+npm install
+ng serve
+```
+
+The API for this project is built using `.NET Core 3.1`. To run, cd into the API directory and run:
+```bash
+dotnet restore 
+dotnet watch run.
+``` 
+
+---
+
+## :fire: Technologies
+
+Server Side:
 - .Net Core
 - Generic Repository Patterns
 - Unit of Work Pattern
@@ -28,10 +54,9 @@ This project is built using .NET Core 3.1. To run, cd into the API directory and
 - Sqlite during devlopment
 - MYSQL in Production
 - Swagger
-- Stripe Implementation
+- [Stripe Implementation](https://stripe.com/docs/testing)
 
-## Client Side Technologies
-
+Client Side:
 - Angular 9
 - Bootstrap 4
 - ngx-bootstrap
@@ -41,13 +66,16 @@ This project is built using .NET Core 3.1. To run, cd into the API directory and
 - RXJS
 - Design Components
 
+---
 
-## Stripe Test Cards
 
-You can also follow docs here https://stripe.com/docs/testing
 
-# Credits:
+## :computer: Credits
 Influenced by Neil Cummings
+
+---
+
+
 
 
 
